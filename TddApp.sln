@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WyCashTest", "WyCashTest\WyCashTest.csproj", "{DD518F12-BFE3-474A-A819-B4DA70F7E666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WyCash", "WyCash\WyCash.csproj", "{E5A12CD8-338C-4735-845F-59DC8DBD67E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD518F12-BFE3-474A-A819-B4DA70F7E666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD518F12-BFE3-474A-A819-B4DA70F7E666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD518F12-BFE3-474A-A819-B4DA70F7E666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD518F12-BFE3-474A-A819-B4DA70F7E666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A12CD8-338C-4735-845F-59DC8DBD67E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A12CD8-338C-4735-845F-59DC8DBD67E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A12CD8-338C-4735-845F-59DC8DBD67E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A12CD8-338C-4735-845F-59DC8DBD67E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69181FCB-FAF8-4526-B8F9-A1ED6C36E3CE}
+	EndGlobalSection
+EndGlobal
